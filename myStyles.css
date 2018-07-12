@@ -1,0 +1,16 @@
+
+
+img.home {
+    background-image: url('unnamed.jpg');
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    
+
+}
+
+h1{
+  font-family: 'Shrikhand', cursive;
+  font-size: 100;
+
+  text-align: center;
+}
